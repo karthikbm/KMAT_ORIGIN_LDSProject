@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: KMAT_ORIGIN_LDSProject
+  gitServerName: Karthik
+  gitUrl: https://github.com/karthikbm/KMAT_ORIGIN_LDSProject
+  gitUsername: karthikbm
+  gitBranch: main
